@@ -1,0 +1,70 @@
+
+h1,h2,h3,h4,h5,h6, label, button {
+    font-family: "Calibri";
+}
+a {
+    color: #232323!important;
+    transition: 0.5s;
+}
+a.btn {
+    color: #fff!important;
+}
+a:hover {
+    color: #1f1f1f!important;
+}
+a.btn:hover {
+    color: #fff!important;
+}
+* {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    font-family: "Calibri";
+    font-weight: 400;
+    font-size: 1rem;
+    box-sizing: border-box;
+}
+div.blue {
+    background: #64edad;
+    height: 60px;
+
+}
+h1 {
+    left: 0;
+    right: 20px;
+    text-indent: 15px;
+    font-family: "Calibri ";
+    font-size: 30px;
+    margin-top: auto;
+}
+h2 {
+    margin-right: 13px;
+    text-align: right;
+    font-family: "Calibri";
+    font-size: 20px;
+}
+h5.size {
+    font-family: "Calibri";
+    font-size: 35px;
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+body{
+    background-color: #64edad;
+}
+.signupleo {
+    flex-direction: column;
+}
+.categories {
+    background: #64edad;
+    font-size: 1.2rem;
+}
+
+.nav-item {
+    margin: 0 0.5rem;
+}
+label{
+    font-family: "Calibri ";
+
+}
